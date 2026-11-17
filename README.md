@@ -20,6 +20,12 @@ ptp-process-bottleneck-analysis/
 │   ├── brd_functional_requirements.md   # Phase 3: BRD, User Stories (BDD), NFRs
 │   └── data_integration_mapping.md      # Phase 4: PTP-to-ERP 15-Field Mapping & Payloads
 ├── diagrams/
+<<<<<<< HEAD
 │   ├── current_state_workflow.png       # Phase 2: As-Is Process Diagram
 │   └── future_state_workflow.png        # Phase 2: To-Be Automated Diagram
 └── README.md                            # Project Portfolio Summary
+=======
+│   ├── current_state_workflow.png       # Phase 2: As-Is BPMN 2.0 Process Diagram
+│   └── future_state_workflow.png        # Phase 2: To-Be Automated BPMN 2.0 Diagram
+└── README.md                            # Project Portfolio Summary
+>>>>>>> 9f9d038a089d354cebe03724057c3f7f2311033a
